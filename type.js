@@ -1,11 +1,10 @@
 const titles = [
-    "Web Designer",
+    "Website Developer",
+    "Data Analyst",
     "Digital Marketer",
     "Business Analyst",
     "Machine Learning Engineer",
     "Project Manager",
-    "App Developer",
-    "Data Analyst"
 ];
 
 const typedTextElement = document.getElementById("typed-text");
